@@ -41,7 +41,7 @@ La interfaz de usuario se construye utilizando botones para cada número y opera
 
 ## Captura de Pantalla
 
-![Captura de pantalla de la calculadora](captura.png)
+![Captura de pantalla de la calculadora](img/Captura%20de%20pantalla%202024-12-14%20184433.png)
 
 ## Estilos
 
